@@ -1,6 +1,7 @@
 JavaScript and Data Visualization Specialist
 
 
+
 I am an Expert in Web Development with 7 years of experience in both Frontend and Backend Development. I possess the expertise to build high-performing web applications using an array of programming languages and frontend frameworks, including Angular, React, Next.js, and Vue.js.
 
 Furthermore, I am also proficient in interactive maps and data visualization. I'm a seasoned pro in D3.js, the go-to data visualization library for creating mesmerizing and interactive data visualizations in web applications. 
